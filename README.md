@@ -14,8 +14,6 @@
 ---
 
 ## 👩‍💻 About Me
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350px" align="right">
-
 - 🎓 B.Tech Electronics & Telecommunication Engineering Student  
 - 💻 Currently working on: **DSA & real-world problem solving**  
 - 🌐 Currently learning: **Full Stack Web Development**  
