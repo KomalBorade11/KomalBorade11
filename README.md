@@ -4,11 +4,11 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">LinkedIn</a> • 
-  <a href="https://leetcode.com/your-leetcode-id/">LeetCode</a> • 
-  <a href="https://www.codingninjas.com/studio/profile/your-coding360-id">Code360</a> • 
-  <a href="mailto:youremail@example.com">Email</a> • 
-  <a href="https://github.com/komalborade">GitHub</a>
+  <a href="https://www.linkedin.com/in/komal-borade/">LinkedIn</a> • 
+  <a href="https://leetcode.com/u/komal9076/">LeetCode</a> • 
+  <a href="https://ps-demo.codingninjas.com/studio/profile/27edae06-5667-428d-b028-9415e0d640a4">Code360</a> • 
+  <a href="boradekomal06@gmail.com">Email</a> • 
+  <a href="https://github.com/KomalBorade11">GitHub</a>
 </p>
 
 ---
