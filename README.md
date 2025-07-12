@@ -14,15 +14,17 @@
 ---
 
 <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
-
-### 👩‍💻 About Me
-- 🎓 B.Tech Electronics & Telecommunication Engineering Student  
-- 💡 Passionate about DSA, Open Source & Building Useful Projects  
-- 🛠 Currently learning **Full Stack Web Development**  
-- 🤖 Exploring the world of **AI / ML & Automation**  
-- 🧠 Active on:
-  - 🌱 [CodingNinjas](https://ps-demo.codingninjas.com/studio/profile/27edae06-5667-428d-b028-9415e0d640a4)
-  - 🌟 [LeetCode](https://leetcode.com/u/komal9076/)
+👩‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<p>
+ <li>🎓 B.Tech Electronics & Telecommunication Engineering Student  </li>
+  <li>Currently working on- DSA, !</li>
+  <li>Currently learning - full stack web dev !</li>
+  <li>Currently exploring - AI ML</li>
+</p>
+---
+  - 🧠 Check my:
+  -  [CodingNinjas](https://ps-demo.codingninjas.com/studio/profile/27edae06-5667-428d-b028-9415e0d640a4)
+  -  [LeetCode](https://leetcode.com/u/komal9076/)
 
 ---
 
@@ -31,7 +33,7 @@
 | Project | Tech Used | 🔗 Link |
 |--------|-----------|--------|
 | **SmartExpenseSplitter** | Java, DSA | [Expense Splitter](https://github.com/KomalBorade11/Expense-Splitter) |
-| **JewelSpark Website** | HTML, CSS | [JewelSpark](https://github.com/KomalBorade11/linkcode) |
+| **JewelSpark Website** | HTML| [JewelSpark](https://github.com/KomalBorade11/linkcode) |
 | **Loan Eligibility Predictor** | Python, ML | [View Repo](#) |
 | **HurdleDetector** | ESP32, Arduino | [View Repo](#) |
 
@@ -39,19 +41,19 @@
 
 ### 🛠 Tech Stack
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,c,python,html,css,bootstrap,mysql,github,vscode" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,c,python,html,bootstrap,mysql,github,vscode" /> </p>
 
 ---
 
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komalborade&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KomalBorade11&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
   <img src="https://streak-stats.demolab.com?user=komalborade&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalborade&layout=compact&theme=tokyonight" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalBorade11&layout=compact&theme=tokyonight" width="38%" />
 </p>
 
 ---
