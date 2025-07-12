@@ -39,9 +39,7 @@
 
 ### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,react,nodejs,mysql,github,vscode,linux,arduino" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,c,python,html,css,bootstrap,mysql,github,vscode" /> </p>
 
 ---
 
