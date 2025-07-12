@@ -59,12 +59,6 @@
 
 ---
 
-### 📚 Certifications
-
-- ✅ Java Programming Masterclass — *Udemy*  
-- ✅ Full Stack Bootcamp — *Linkcode Technologies*
-
----
 
 ### 📬 Let's Connect!
 
