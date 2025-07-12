@@ -13,18 +13,19 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
-👩‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-<p>
- <li>🎓 B.Tech Electronics & Telecommunication Engineering Student  </li>
-  <li>Currently working on- DSA, !</li>
-  <li>Currently learning - full stack web dev !</li>
-  <li>Currently exploring - AI ML</li>
-</p>
+## 👩‍💻 About Me
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350px" align="right">
+
+- 🎓 B.Tech Electronics & Telecommunication Engineering Student  
+- 💻 Currently working on: **DSA & real-world problem solving**  
+- 🌐 Currently learning: **Full Stack Web Development**  
+- 🤖 Currently exploring: **AI & Machine Learning**
+
 ---
-  - 🧠 Check my:
-  -  [CodingNinjas](https://ps-demo.codingninjas.com/studio/profile/27edae06-5667-428d-b028-9415e0d640a4)
-  -  [LeetCode](https://leetcode.com/u/komal9076/)
+
+### 🧠 Check Me Out On:
+- 🌱 [Coding Ninjas (CodeStudio)](https://ps-demo.codingninjas.com/studio/profile/27edae06-5667-428d-b028-9415e0d640a4)  
+- 🌟 [LeetCode](https://leetcode.com/u/komal9076/)
 
 ---
 
