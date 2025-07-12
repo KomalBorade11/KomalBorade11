@@ -21,9 +21,8 @@
 - 🛠 Currently learning **Full Stack Web Development**  
 - 🤖 Exploring the world of **AI / ML & Automation**  
 - 🧠 Active on:
-  - 🌱 [HackerRank](https://www.hackerrank.com/)
-  - 🌟 [LeetCode](https://leetcode.com/your-leetcode-id/)
-  - ✨ [GeeksForGeeks](https://www.geeksforgeeks.org/)
+  - 🌱 [CodingNinjas](https://ps-demo.codingninjas.com/studio/profile/27edae06-5667-428d-b028-9415e0d640a4)
+  - 🌟 [LeetCode](https://leetcode.com/u/komal9076/)
 
 ---
 
@@ -31,8 +30,8 @@
 
 | Project | Tech Used | 🔗 Link |
 |--------|-----------|--------|
-| **SmartExpenseSplitter** | Java, DSA | [Expense Splitter](https://github.com/komalborade/expense-splitter) |
-| **JewelSpark Website** | HTML, CSS | [JewelSpark](https://github.com/komalborade/jewelspark-website) |
+| **SmartExpenseSplitter** | Java, DSA | [Expense Splitter](https://github.com/KomalBorade11/Expense-Splitter) |
+| **JewelSpark Website** | HTML, CSS | [JewelSpark](https://github.com/KomalBorade11/linkcode) |
 | **Loan Eligibility Predictor** | Python, ML | [View Repo](#) |
 | **HurdleDetector** | ESP32, Arduino | [View Repo](#) |
 
