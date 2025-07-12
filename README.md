@@ -48,7 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KomalBorade11&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=komalborade&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=KomalBorade11&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
