@@ -63,12 +63,12 @@
 ### 📬 Let's Connect!
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/komalborade"><img src="https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:boradekoaml06@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/komal-borade/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/KomalBorade11"><img src="https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 > _“Build what you wish existed.”_ — Komal Borade ✨  
-> Thanks for visiting my profile 💖 Let's connect and create something amazing!
+> Thanks for visiting my profile. Let's connect and create something amazing!
